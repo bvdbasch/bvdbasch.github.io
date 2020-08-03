@@ -14,8 +14,8 @@
         <author>
             <name>Bonno van der Basch</name>
         </author>
-        <link href="https://words.vanderbasch.com/how-to-solve-qnap-disk-initialization-problems.html"/>
-        <id>https://words.vanderbasch.com/how-to-solve-qnap-disk-initialization-problems.html</id>
+        <link href="https://words.vanderbasch.com/how-to-solve-qnap-disk-initialization-problems/"/>
+        <id>https://words.vanderbasch.com/how-to-solve-qnap-disk-initialization-problems/</id>
             <category term="troubleshooting"/>
             <category term="ssh"/>
             <category term="qnap"/>
@@ -24,7 +24,7 @@
             <category term="fdisk"/>
             <category term="busybox"/>
 
-        <updated>2020-08-03T13:20:47+02:00</updated>
+        <updated>2020-08-03T13:47:30+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://words.vanderbasch.com/media/posts/1/markus-spiske-5yEiCUynJ9w-unsplash.jpg" alt="A WD Red harddrive cut in half on a pink background" />
@@ -43,8 +43,8 @@
 <p>Once I had the NAS set up and was done moving all my data to the NAS I dismanteled the remaining drive and popped it in the NAS. I tried <strong>hot plugging</strong> it to see if the NAS would go for it and surely it did. Well… <em>sort of…</em></p>
 <p>Whatever I tried, the NAS would refuse to initialize the drive! It would just keep telling me:</p>
 <blockquote>
-<p><code>[Singe Disk Volume: Drive 2] Formatting failed.</code>
-<code>[Singe Disk Volume: Drive 2] Formatting failed(Cannot unmount disk).</code></p>
+<p><code>[Singe Disk Volume: Drive 2] Formatting failed.</code> </p>
+<p><code>[Singe Disk Volume: Drive 2] Formatting failed(Cannot unmount disk).</code></p>
 </blockquote>
 <p>None of QNAP’s own documentation seemed to work as well as standard LINUX stuff. I later learned that QNAP operates on a slightly modded version of <a href="http://http://www.busybox.net/">BUSYBOX</a></p>
 <h2 id="the-fix">The fix</h2>
