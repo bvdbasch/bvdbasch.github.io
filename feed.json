@@ -10,6 +10,27 @@
     },
     "items": [
         {
+            "id": "https://words.vanderbasch.com/generating-font-awesome-png-files/",
+            "url": "https://words.vanderbasch.com/generating-font-awesome-png-files/",
+            "title": "Generating font awesome PNG files",
+            "summary": "So… I was in a bind yesterday when I wanted to use one of Font Awesome’s icons as a favicon. Because, you know… I’m all about consistency. Thing is though, it’s not in an image format. Luckily I came across a site that let’s you&hellip;",
+            "content_html": "<p>So… I was in a bind yesterday when I wanted to use one of <a href=\"http://fontawesome.io\" title=\"FontAwesome\">Font Awesome’s</a>  icons as a favicon. Because, you know… I’m all about consistency.  Thing is though, it’s not in an image format. </p>\n<p>Luckily I came across a site that let’s you solve that: <a href=\"http://fa2png.io/\" title=\"FA2PNG\">fa2png</a>.  The site is free to use and works on mobile phones as well. Best of all, they allow you to customize the colors using hex codes and the generated images do not require (additional) attribution when you use them. </p>\n<p>I know I’ll be using this site in the future for sure. I hope you’ll find it useful as well. </p>\n",
+            "image": "https://words.vanderbasch.com/media/posts/2/harpal-singh-_zKxPsGOGKg-unsplash.jpg",
+            "author": {
+                "name": "Bonno van der Basch"
+            },
+            "tags": [
+                   "web icons",
+                   "web apps",
+                   "icons",
+                   "iconography",
+                   "font awesome",
+                   "fa2png"
+            ],
+            "date_published": "2020-09-22T16:26:54+02:00",
+            "date_modified": "2020-09-22T16:26:54+02:00"
+        },
+        {
             "id": "https://words.vanderbasch.com/how-to-solve-qnap-disk-initialization-problems/",
             "url": "https://words.vanderbasch.com/how-to-solve-qnap-disk-initialization-problems/",
             "title": "How to solve QNAP disk initialization problems",
@@ -28,8 +49,8 @@
                    "fdisk",
                    "busybox"
             ],
-            "date_published": "2020-08-13T11:41:44+02:00",
-            "date_modified": "2020-08-13T11:41:44+02:00"
+            "date_published": "2020-09-22T16:26:54+02:00",
+            "date_modified": "2020-09-22T16:26:54+02:00"
         }
     ]
 }

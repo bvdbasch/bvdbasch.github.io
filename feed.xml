@@ -10,6 +10,37 @@
     <id>https://words.vanderbasch.com</id>
 
     <entry>
+        <title>Generating font awesome PNG files</title>
+        <author>
+            <name>Bonno van der Basch</name>
+        </author>
+        <link href="https://words.vanderbasch.com/generating-font-awesome-png-files/"/>
+        <id>https://words.vanderbasch.com/generating-font-awesome-png-files/</id>
+            <category term="web icons"/>
+            <category term="web apps"/>
+            <category term="icons"/>
+            <category term="iconography"/>
+            <category term="font awesome"/>
+            <category term="fa2png"/>
+
+        <updated>2020-09-22T16:26:54+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://words.vanderbasch.com/media/posts/2/harpal-singh-_zKxPsGOGKg-unsplash.jpg" alt="Several icons shown on a screen in a tilted view" />
+                    So… I was in a bind yesterday when I wanted to use one of Font Awesome’s icons as a favicon. Because, you know… I’m all about consistency. Thing is though, it’s not in an image format. Luckily I came across a site that let’s you&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://words.vanderbasch.com/media/posts/2/harpal-singh-_zKxPsGOGKg-unsplash.jpg" alt="Several icons shown on a screen in a tilted view" />
+                <p>So… I was in a bind yesterday when I wanted to use one of <a href="http://fontawesome.io" title="FontAwesome">Font Awesome’s</a>  icons as a favicon. Because, you know… I’m all about consistency.  Thing is though, it’s not in an image format. </p>
+<p>Luckily I came across a site that let’s you solve that: <a href="http://fa2png.io/" title="FA2PNG">fa2png</a>.  The site is free to use and works on mobile phones as well. Best of all, they allow you to customize the colors using hex codes and the generated images do not require (additional) attribution when you use them. </p>
+<p>I know I’ll be using this site in the future for sure. I hope you’ll find it useful as well. </p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>How to solve QNAP disk initialization problems</title>
         <author>
             <name>Bonno van der Basch</name>
@@ -24,7 +55,7 @@
             <category term="fdisk"/>
             <category term="busybox"/>
 
-        <updated>2020-08-13T11:41:44+02:00</updated>
+        <updated>2020-09-22T16:26:54+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://words.vanderbasch.com/media/posts/1/markus-spiske-5yEiCUynJ9w-unsplash.jpg" alt="A WD Red harddrive cut in half on a pink background" />
