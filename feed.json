@@ -22,13 +22,14 @@
             "tags": [
                    "web icons",
                    "web apps",
+                   "tips and tricks",
                    "icons",
                    "iconography",
                    "font awesome",
                    "fa2png"
             ],
-            "date_published": "2020-09-22T16:26:54+02:00",
-            "date_modified": "2020-09-22T16:26:54+02:00"
+            "date_published": "2020-10-09T18:36:22+02:00",
+            "date_modified": "2020-10-09T18:36:22+02:00"
         },
         {
             "id": "https://words.vanderbasch.com/how-to-solve-qnap-disk-initialization-problems/",
@@ -49,8 +50,27 @@
                    "fdisk",
                    "busybox"
             ],
-            "date_published": "2020-09-22T16:26:54+02:00",
-            "date_modified": "2020-09-22T16:26:54+02:00"
+            "date_published": "2020-10-09T18:36:22+02:00",
+            "date_modified": "2020-10-09T18:36:22+02:00"
+        },
+        {
+            "id": "https://words.vanderbasch.com/online-favicon-extractor/",
+            "url": "https://words.vanderbasch.com/online-favicon-extractor/",
+            "title": "Online Favicon Extractor",
+            "summary": "I found a cool “hidden” feature on the Yandex search engine. It is able to extract the favicon from any domain even if the server hosting the domain does not allow the visitor to do so. Simply click on the link and modify the url&hellip;",
+            "content_html": "<p>I found a cool “hidden” feature on the <a href=\"http://favicon.yandex.net/favicon/\">Yandex search engine</a>. It is able to extract the favicon from any domain even if the server hosting the domain does not allow the visitor to do so. Simply click on the link and modify the url afterwards. Include the full domain including www after the slash and voila, a favicon ready to be saved. Great for password managers that support custom icons.</p>\n<h3 id=\"instructions\">Instructions</h3>\n<ol>\n<li>Link points to <a href=\"http://favicon.yandex.net/favicon/\">http://favicon.yandex.net/favicon/</a></li>\n<li>Want, let’s say the tumblr. favicon? Modify the above link to <a href=\"http://favicon.yandex.net/favicon/www.tumblr.com\">http://favicon.yandex.net/favicon/www.tumblr.com</a></li>\n<li>That’s it!</li>\n</ol>\n",
+            "image": "https://words.vanderbasch.com/media/posts/3/piotr-hamryszczak-P2k3JttAlho-unsplash.jpg",
+            "author": {
+                "name": "Bonno van der Basch"
+            },
+            "tags": [
+                   "yandex",
+                   "tips and tricks",
+                   "search engines",
+                   "icons"
+            ],
+            "date_published": "2020-10-09T18:36:22+02:00",
+            "date_modified": "2020-10-09T18:36:22+02:00"
         }
     ]
 }

@@ -18,12 +18,13 @@
         <id>https://words.vanderbasch.com/generating-font-awesome-png-files/</id>
             <category term="web icons"/>
             <category term="web apps"/>
+            <category term="tips and tricks"/>
             <category term="icons"/>
             <category term="iconography"/>
             <category term="font awesome"/>
             <category term="fa2png"/>
 
-        <updated>2020-09-22T16:26:54+02:00</updated>
+        <updated>2020-10-09T18:36:22+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://words.vanderbasch.com/media/posts/2/harpal-singh-_zKxPsGOGKg-unsplash.jpg" alt="Several icons shown on a screen in a tilted view" />
@@ -55,7 +56,7 @@
             <category term="fdisk"/>
             <category term="busybox"/>
 
-        <updated>2020-09-22T16:26:54+02:00</updated>
+        <updated>2020-10-09T18:36:22+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://words.vanderbasch.com/media/posts/1/markus-spiske-5yEiCUynJ9w-unsplash.jpg" alt="A WD Red harddrive cut in half on a pink background" />
@@ -89,6 +90,39 @@
 <li><strong>FORMAT</strong> the drive from the webinterface. It will automatically mount everything as it sees fit and you should end  up with a mounted usable second drive.</li>
 </ol>
 <p>I hope this will help some of you that are facing the same annoying issue I was facing. you’ve been a worthy foe linux. I will see you again soon for our next battle.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Online Favicon Extractor</title>
+        <author>
+            <name>Bonno van der Basch</name>
+        </author>
+        <link href="https://words.vanderbasch.com/online-favicon-extractor/"/>
+        <id>https://words.vanderbasch.com/online-favicon-extractor/</id>
+            <category term="yandex"/>
+            <category term="tips and tricks"/>
+            <category term="search engines"/>
+            <category term="icons"/>
+
+        <updated>2020-10-09T18:36:22+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://words.vanderbasch.com/media/posts/3/piotr-hamryszczak-P2k3JttAlho-unsplash.jpg" alt="A photograph of a brown wooden panel door" />
+                    I found a cool “hidden” feature on the Yandex search engine. It is able to extract the favicon from any domain even if the server hosting the domain does not allow the visitor to do so. Simply click on the link and modify the url&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://words.vanderbasch.com/media/posts/3/piotr-hamryszczak-P2k3JttAlho-unsplash.jpg" alt="A photograph of a brown wooden panel door" />
+                <p>I found a cool “hidden” feature on the <a href="http://favicon.yandex.net/favicon/">Yandex search engine</a>. It is able to extract the favicon from any domain even if the server hosting the domain does not allow the visitor to do so. Simply click on the link and modify the url afterwards. Include the full domain including www after the slash and voila, a favicon ready to be saved. Great for password managers that support custom icons.</p>
+<h3 id="instructions">Instructions</h3>
+<ol>
+<li>Link points to <a href="http://favicon.yandex.net/favicon/">http://favicon.yandex.net/favicon/</a></li>
+<li>Want, let’s say the tumblr. favicon? Modify the above link to <a href="http://favicon.yandex.net/favicon/www.tumblr.com">http://favicon.yandex.net/favicon/www.tumblr.com</a></li>
+<li>That’s it!</li>
+</ol>
 
             ]]>
         </content>
