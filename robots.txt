@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://words.vanderbasch.com/sitemap.xml
