@@ -5,6 +5,14 @@
 <loc>https://words.vanderbasch.com/</loc>
 </url>
 <url>
+<loc>https://words.vanderbasch.com/a/</loc>
+<lastmod>2021-12-19T19:36:23+01:00</lastmod>
+<image:image>
+<image:loc>https://words.vanderbasch.com/media/posts/8/vinayak-sharma-VAzTBp3KMaw-unsplash.jpg</image:loc>
+<image:title><![CDATA[A dimmed desk environment with the lofi girl featured alongside an open code editor]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://words.vanderbasch.com/generating-font-awesome-png-files/</loc>
 <lastmod>2020-10-09T18:28:52+02:00</lastmod>
 <image:image>
@@ -35,5 +43,12 @@
 <image:loc>https://words.vanderbasch.com/media/posts/3/piotr-hamryszczak-P2k3JttAlho-unsplash.jpg</image:loc>
 <image:title><![CDATA[A photograph of a brown wooden panel door]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://words.vanderbasch.com/page/2/</loc>
+</url>
+<url>
+<loc>https://words.vanderbasch.com/strifecake-a-bloggy-anchor-cms-theme/</loc>
+<lastmod>2021-12-18T12:05:29+01:00</lastmod>
 </url>
 </urlset>

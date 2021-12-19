@@ -10,6 +10,47 @@
     },
     "items": [
         {
+            "id": "https://words.vanderbasch.com/strifecake-a-bloggy-anchor-cms-theme/",
+            "url": "https://words.vanderbasch.com/strifecake-a-bloggy-anchor-cms-theme/",
+            "title": "Strifecake: a bloggy Anchor CMS theme",
+            "summary": " WARNING: some skills may be required to run this theme to full satisfaction… This is NOT a download and run type deal… This is the result of a week of development and was incredibly fun to do! The work is open source and available&hellip;",
+            "content_html": "<blockquote>\n<p>WARNING: some skills may be required to run this theme to full satisfaction… This is NOT a download and run type deal…</p>\n</blockquote>\n<p>This is the result of a week of development and was <em>incredibly</em> fun to do! The work is open source and available in <a href=\"https://github.com/bvdbasch/strifecake\">this github repo</a></p>\n<p>A couple of custom php functions had to be created in order to make this all work. This is due to the limitations the current stable version of <a href=\"http://anchorcms.com/\">Anchor CMS</a> has. The functions mainly deal with parsing article details from specific categories.</p>\n<p>The theme works based on php include blocks to allow for easy customization.</p>\n",
+            "author": {
+                "name": "Bonno van der Basch"
+            },
+            "tags": [
+                   "Themes",
+                   "Strife",
+                   "Open Source",
+                   "HTML",
+                   "GitHub",
+                   "CSS",
+                   "Anchor CMS"
+            ],
+            "date_published": "2021-12-18T12:05:29+01:00",
+            "date_modified": "2021-12-18T12:05:29+01:00"
+        },
+        {
+            "id": "https://words.vanderbasch.com/a/",
+            "url": "https://words.vanderbasch.com/a/",
+            "title": "Programming Music: Drake Stafford - Sunday",
+            "summary": " To ensure I respect your privacy, this is merely an image of the Soundcloud player. Click the image to go directly to the Soundcloud player! I've recently developed a thing for lo-fi hip hop. And even though this isn't technically lo-fi it gives me&hellip;",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <a href=\"https://soundcloud.com/drake_stafford/sets/sunday\" target=\"_blank\">\n        <img loading=\"lazy\" src=\"https://words.vanderbasch.com/media/posts/8/drake-stafford-sunday-embed-3.png\" sizes=\"(min-width: 61.3125em) 50vw, 100vw\" srcset=\"https://words.vanderbasch.com/media/posts/8/responsive/drake-stafford-sunday-embed-3-xs.png 300w ,https://words.vanderbasch.com/media/posts/8/responsive/drake-stafford-sunday-embed-3-sm.png 480w ,https://words.vanderbasch.com/media/posts/8/responsive/drake-stafford-sunday-embed-3-md.png 768w\"  height=\"485\" width=\"781\" alt=\"Sunday by Drake Stafford on Soundcloud\" />\n      </a>\n      <figcaption>To ensure I respect your privacy, this is merely an image of the Soundcloud player. Click the image to go directly to the Soundcloud player!</figcaption>\n    </figure>\n\n  <p>\n    I've recently developed a thing for lo-fi hip hop. And even though this isn't <i>technically</i> lo-fi it gives me the same level of chill. <br>\n  </p>\n\n  <p>\n    <b>I highly recommend you give this a listen!</b>&nbsp;It just puts so much chill in me 🧡\n  </p>",
+            "image": "https://words.vanderbasch.com/media/posts/8/vinayak-sharma-VAzTBp3KMaw-unsplash.jpg",
+            "author": {
+                "name": "Bonno van der Basch"
+            },
+            "tags": [
+                   "music",
+                   "lofi",
+                   "free music archive",
+                   "drake stafford",
+                   "creative commons"
+            ],
+            "date_published": "2017-06-04T10:11:00+02:00",
+            "date_modified": "2021-12-19T19:36:23+01:00"
+        },
+        {
             "id": "https://words.vanderbasch.com/generating-font-awesome-png-files/",
             "url": "https://words.vanderbasch.com/generating-font-awesome-png-files/",
             "title": "Generating font awesome PNG files",

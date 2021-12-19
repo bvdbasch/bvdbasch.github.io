@@ -3,12 +3,86 @@
     <title>There is something wrong...</title>
     <link href="https://words.vanderbasch.com/feed.xml" rel="self" />
     <link href="https://words.vanderbasch.com" />
-    <updated>2021-12-17T21:58:35+01:00</updated>
+    <updated>2021-12-19T19:36:23+01:00</updated>
     <author>
         <name>Bonno van der Basch</name>
     </author>
     <id>https://words.vanderbasch.com</id>
 
+    <entry>
+        <title>Strifecake: a bloggy Anchor CMS theme</title>
+        <author>
+            <name>Bonno van der Basch</name>
+        </author>
+        <link href="https://words.vanderbasch.com/strifecake-a-bloggy-anchor-cms-theme/"/>
+        <id>https://words.vanderbasch.com/strifecake-a-bloggy-anchor-cms-theme/</id>
+            <category term="Themes"/>
+            <category term="Strife"/>
+            <category term="Open Source"/>
+            <category term="HTML"/>
+            <category term="GitHub"/>
+            <category term="CSS"/>
+            <category term="Anchor CMS"/>
+
+        <updated>2021-12-18T12:05:29+01:00</updated>
+            <summary>
+                <![CDATA[
+                     WARNING: some skills may be required to run this theme to full satisfaction… This is NOT a download and run type deal… This is the result of a week of development and was incredibly fun to do! The work is open source and available&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p>WARNING: some skills may be required to run this theme to full satisfaction… This is NOT a download and run type deal…</p>
+</blockquote>
+<p>This is the result of a week of development and was <em>incredibly</em> fun to do! The work is open source and available in <a href="https://github.com/bvdbasch/strifecake">this github repo</a></p>
+<p>A couple of custom php functions had to be created in order to make this all work. This is due to the limitations the current stable version of <a href="http://anchorcms.com/">Anchor CMS</a> has. The functions mainly deal with parsing article details from specific categories.</p>
+<p>The theme works based on php include blocks to allow for easy customization.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Programming Music: Drake Stafford - Sunday</title>
+        <author>
+            <name>Bonno van der Basch</name>
+        </author>
+        <link href="https://words.vanderbasch.com/a/"/>
+        <id>https://words.vanderbasch.com/a/</id>
+            <category term="music"/>
+            <category term="lofi"/>
+            <category term="free music archive"/>
+            <category term="drake stafford"/>
+            <category term="creative commons"/>
+
+        <updated>2021-12-19T19:36:23+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://words.vanderbasch.com/media/posts/8/vinayak-sharma-VAzTBp3KMaw-unsplash.jpg" alt="A dimmed desk environment with the lofi girl featured alongside an open code editor" />
+                     To ensure I respect your privacy, this is merely an image of the Soundcloud player. Click the image to go directly to the Soundcloud player! I've recently developed a thing for lo-fi hip hop. And even though this isn't technically lo-fi it gives me&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://words.vanderbasch.com/media/posts/8/vinayak-sharma-VAzTBp3KMaw-unsplash.jpg" alt="A dimmed desk environment with the lofi girl featured alongside an open code editor" />
+                
+    <figure class="post__image post__image--center">
+      <a href="https://soundcloud.com/drake_stafford/sets/sunday" target="_blank">
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/8/drake-stafford-sunday-embed-3.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://words.vanderbasch.com/media/posts/8/responsive/drake-stafford-sunday-embed-3-xs.png 300w ,https://words.vanderbasch.com/media/posts/8/responsive/drake-stafford-sunday-embed-3-sm.png 480w ,https://words.vanderbasch.com/media/posts/8/responsive/drake-stafford-sunday-embed-3-md.png 768w"  height="485" width="781" alt="Sunday by Drake Stafford on Soundcloud" />
+      </a>
+      <figcaption>To ensure I respect your privacy, this is merely an image of the Soundcloud player. Click the image to go directly to the Soundcloud player!</figcaption>
+    </figure>
+
+  <p>
+    I've recently developed a thing for lo-fi hip hop. And even though this isn't <i>technically</i> lo-fi it gives me the same level of chill. <br>
+  </p>
+
+  <p>
+    <b>I highly recommend you give this a listen!</b>&nbsp;It just puts so much chill in me 🧡
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Generating font awesome PNG files</title>
         <author>
