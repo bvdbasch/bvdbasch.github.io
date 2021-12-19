@@ -10,39 +10,6 @@
     <id>https://words.vanderbasch.com</id>
 
     <entry>
-        <title>Strifecake: a bloggy Anchor CMS theme</title>
-        <author>
-            <name>Bonno van der Basch</name>
-        </author>
-        <link href="https://words.vanderbasch.com/strifecake-a-bloggy-anchor-cms-theme/"/>
-        <id>https://words.vanderbasch.com/strifecake-a-bloggy-anchor-cms-theme/</id>
-            <category term="Themes"/>
-            <category term="Strife"/>
-            <category term="Open Source"/>
-            <category term="HTML"/>
-            <category term="GitHub"/>
-            <category term="CSS"/>
-            <category term="Anchor CMS"/>
-
-        <updated>2021-12-18T12:05:29+01:00</updated>
-            <summary>
-                <![CDATA[
-                     WARNING: some skills may be required to run this theme to full satisfaction… This is NOT a download and run type deal… This is the result of a week of development and was incredibly fun to do! The work is open source and available&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p>WARNING: some skills may be required to run this theme to full satisfaction… This is NOT a download and run type deal…</p>
-</blockquote>
-<p>This is the result of a week of development and was <em>incredibly</em> fun to do! The work is open source and available in <a href="https://github.com/bvdbasch/strifecake">this github repo</a></p>
-<p>A couple of custom php functions had to be created in order to make this all work. This is due to the limitations the current stable version of <a href="http://anchorcms.com/">Anchor CMS</a> has. The functions mainly deal with parsing article details from specific categories.</p>
-<p>The theme works based on php include blocks to allow for easy customization.</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Programming Music: Drake Stafford - Sunday</title>
         <author>
             <name>Bonno van der Basch</name>
