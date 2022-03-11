@@ -3,7 +3,7 @@
     <title>There is something wrong...</title>
     <link href="https://words.vanderbasch.com/feed.xml" rel="self" />
     <link href="https://words.vanderbasch.com" />
-    <updated>2021-12-30T13:48:02+01:00</updated>
+    <updated>2022-03-08T18:57:13+01:00</updated>
     <author>
         <name>Bonno van der Basch</name>
     </author>
@@ -22,23 +22,23 @@
             <category term="drake stafford"/>
             <category term="creative commons"/>
 
-        <updated>2021-12-30T13:48:02+01:00</updated>
+        <updated>2021-12-30T15:53:13+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://words.vanderbasch.com/media/posts/8/vinayak-sharma-VAzTBp3KMaw-unsplash.jpg" alt="A dimmed desk environment with the lofi girl featured alongside an open code editor" />
+                        <img src="https://words.vanderbasch.com/media/posts/8/vinayak-sharma-VAzTBp3KMaw-unsplash.jpg" alt="A dimmed desk environment with the LoFi girl featured alongside an open code editor" />
                      I've recently developed a thing for LoFi hip hop. It never fails to get me into a state of flow ideal for when I'm crunching out code. Even though I'm quite content with the offerings of more established channels like Chillhop Music (my personal&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://words.vanderbasch.com/media/posts/8/vinayak-sharma-VAzTBp3KMaw-unsplash.jpg" alt="A dimmed desk environment with the lofi girl featured alongside an open code editor" />
+                    <img src="https://words.vanderbasch.com/media/posts/8/vinayak-sharma-VAzTBp3KMaw-unsplash.jpg" alt="A dimmed desk environment with the LoFi girl featured alongside an open code editor" />
                 
   <p>
     I've recently developed a thing for LoFi hip hop. It never fails to get me into a state of flow ideal for when I'm crunching out code. Even though I'm quite content with the offerings of more established channels like <a href="https://chillhopmusic.com" target="_blank">Chillhop Music</a> (my personal favorite) I am always on the lookout for new tunes. And hoo boy did I discover a gem on the <a href="https://freemusicarchive.org/music/Drake_Stafford/SUNDAY/" target="_blank">Free Music Archive</a>!&nbsp;
   </p>
 
   <p>
-    I found a small 3 track gem called Sunday by the artist Drake Stafford. You can listen to it on Soundcloud by clicking on the image below, or you can download it directly from the Free Music Archive on this page <a href="https://freemusicarchive.org/music/Drake_Stafford/SUNDAY/" target="_blank">here</a>.<br>
+    I found a small 3 track gem called Sunday by the artist Drake Stafford. You can listen to it on Soundcloud by clicking on the image below, or you can <a href="https://freemusicarchive.org/music/Drake_Stafford/SUNDAY/" target="_blank">download it directly on FMA</a>.<br>
   </p>
 
     <figure class="post__image post__image--center">
@@ -83,6 +83,254 @@
 <p>Luckily I came across a site that let’s you solve that: <a href="http://fa2png.io/" title="FA2PNG">fa2png</a>.  The site is free to use and works on mobile phones as well. Best of all, they allow you to customize the colors using hex codes and the generated images do not require (additional) attribution when you use them. </p>
 <p>I know I’ll be using this site in the future for sure. I hope you’ll find it useful as well. </p>
 
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Restoring a BTC 5300C keyboard</title>
+        <author>
+            <name>Bonno van der Basch</name>
+        </author>
+        <link href="https://words.vanderbasch.com/restoring-btc-5300c-keyboard/"/>
+        <id>https://words.vanderbasch.com/restoring-btc-5300c-keyboard/</id>
+            <category term="vintage keyboards"/>
+            <category term="video"/>
+            <category term="restoration"/>
+            <category term="repair"/>
+            <category term="photo gallery"/>
+            <category term="mechanical keyboards"/>
+            <category term="keyboards"/>
+            <category term="how to"/>
+            <category term="diy"/>
+            <category term="cleaning"/>
+            <category term="build log"/>
+
+        <updated>2022-03-08T18:57:13+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://words.vanderbasch.com/media/posts/5/WP_20150127_17_11_09_Pro-2.jpg" alt="Close up of the circuitry and key activation mechanism of the BTC  5300C" />
+                     I like keyboards. Like...&nbsp;a lot. So whenever I come across a damaged vintage keyboard I check out if it is: A. Salvageable&nbsp;&nbsp; and B. Interesting enough for me to work on So when I happened to come across a heavily abused BTC 5300C I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://words.vanderbasch.com/media/posts/5/WP_20150127_17_11_09_Pro-2.jpg" alt="Close up of the circuitry and key activation mechanism of the BTC  5300C" />
+                
+  <p>
+    I like keyboards. Like...&nbsp;<b>a lot</b>. So whenever I come across a damaged vintage keyboard I check out if it is:
+  </p>
+
+  <p>
+    <b>A.</b> Salvageable&nbsp;&nbsp;<br>and<br><b>B.</b> Interesting enough for me to work on
+  </p>
+
+  <p>
+    So when I happened to come across a heavily abused <a href="https://deskthority.net/wiki/BTC_51_series" target="_blank">BTC 5300C</a> I quickly did my routine checks and determined that the keyboard fits my two criteria and began working on restoring it.
+  </p>
+
+  <p>
+    When I discovered the keyboard at an old storage facility it was <i>covered in oil!&nbsp;</i>😱 It reeked too (<i>yuck&nbsp;</i>🤢). However, it didn't look like it was damaged beyond the point of being salvageable and after a quick lookup I discovered the keyboard uses cherry stems, so if the restoration didn't work out I could always just harvest the keycaps. <b>Neat :D</b>
+  </p>
+
+    <h2 id="key-mechanism-and-feelingnbsp">
+      Key Mechanism and feeling&nbsp;
+    </h2>
+
+  <p class="msg msg--info">
+    ℹ️ There are those who claim that BTC dome with slider keyboards provide a typing experience very close to TOPRE keyboards. Having never typed on a TOPRE keyboard I am unable to verify this claim. If you are not able to shell out for a TOPRE keyboard, a BTC keyboard may be worth looking into as a cheaper alternative.
+  </p>
+
+  <p>
+    The BTC 5300C uses a <a href="https://deskthority.net/wiki/BTC_dome_with_slider" target="_blank">dome with slider</a>&nbsp;mechanism that provides an interesting typing feel. The mechanism itself looks like there is a miniature table lodged over a nipple. Each dome is a separate conductor, so it's not built like the standard rubber dome sheets you see these days.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/BTC-5300-board-reveal.jpg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-board-reveal-xs.jpg 300w ,https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-board-reveal-sm.jpg 480w ,https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-board-reveal-md.jpg 768w"  height="3024" width="5376" alt="A BTC5300 keyboards inner board and sheet lying on a metal cased with the top half slightly visible on the right" />
+      <figcaption>Rubber sheet my ass! Note the mini table near the enter key.</figcaption>
+    </figure>
+
+  <p>
+    When I did my initial typing tests I was wearing gloves because the keyboard was still covered in oil. The feeling was... interesting. It felt like typing on a heavier hybrid switch which is why I was initially fooled into thinking the keyboard was mechanical. Well, that and the Cherry MX stems...
+  </p>
+<div><p>After refurbishing the keyboard I did another typing test and <a href="#results-and-typing-demonstration">recorded an accompanying video</a>. The typing experience feels quite rigid. The keyboard feels a bit too heavy for my tastes but it I wouldn't call it bad either.</p></div>
+
+  <p>
+    I wouldn't recommend trashing the board and just harvesting the keys as many redditors over on the mechanical keyboard Reddit suggest. <i>This keyboard is certainly a step up from a standard rubber sheet keyboard.</i>
+  </p>
+
+    <h2 id="the-restoration-processnbsp">
+      The restoration process&nbsp;
+    </h2>
+
+    <h3 id="disassembly">
+      Disassembly
+    </h3>
+
+  <p>
+    Every restoration process is roughly the same: gently disassemble to board, keep track of all the parts and give it a good scrub 🧼 Sounds easy enough, right? Well, for most modern keyboards this would no longer be the case, but that's why I love vintage tech; not only are all the screws much bigger than those we see nowadays, but there is also a clear absence of proprietary components. Everything is just sorta... <i>out there in the open</i>.
+  </p>
+
+  <p>
+    The two pictures below sum up the process nicely, basically you unscrew the mounting screws located at the bottom of the keyboard and then detach the metal base, after which you get unrestricted access all the innards of the keyboard.
+  </p>
+
+  <div  class="gallery-wrapper gallery-wrapper--center">
+    <div class="gallery" data-columns="2">
+      <figure class="gallery__item">
+      <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-top-half-reveal.jpg" data-size="5376x3024">
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-top-half-reveal-thumbnail.jpg" height="432" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-bottom-half-reveal.jpg" data-size="5376x3024">
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-bottom-half-reveal-thumbnail.jpg" height="432" width="768" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+    <h3 id="cleaning">
+      Cleaning
+    </h3>
+
+  <p>
+    Normally I would just use denture cleaning tablets on keyboards as severely yellowed as this one, but seeing as how my fallback plan was to just take the keycaps and run I did not want to risk damaging the keycaps, so instead I opted for multiple soaking sessions in lukewarm water with a tiny amount added.&nbsp;
+  </p>
+
+  <p>
+    I did three soaking sessions in total and ever so gently rubbed off all the nasty. The emphasis lies on <i>gently</i>&nbsp;here, because manhandling the keycaps would have been a surefire way to destroy the lettering on the keycaps.&nbsp;
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/BTC-5300-bowl-square.jpg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-bowl-square-xs.jpg 300w ,https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-bowl-square-sm.jpg 480w ,https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-bowl-square-md.jpg 768w"  height="2679" width="2679" alt="A photo of bowl containing cleaned yellowish keycaps" />
+      <figcaption>A bowl of keycaps anyone 🧐</figcaption>
+    </figure>
+
+  <p>
+    I'm honestly surprised by how good these looked after cleaning, considering the amount of gunk and oil that was on them. Just goes to show you that there is no substitute for a little elbow grease 😜
+  </p>
+
+  <p>
+    After cleaning the keycaps I put the metal bottom and the plastic top in the dishwasher and let it run a short cycle with just water. I chose the lowest temperature setting so the plastic would not warp due to the heat (<i>dishwashers can get very hot!)</i>.
+  </p>
+
+  <p>
+    After the bottom and top half of the keyboard finished their little dishwasher adventure I let everything dry and the proceeded to put the keyboard together again, which was the same process as the disassembly process, only, you know... reversed.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/BTC-5300-cleaned.jpeg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-cleaned-xs.jpeg 300w ,https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-cleaned-sm.jpeg 480w ,https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-cleaned-md.jpeg 768w"  height="3024" width="4883" alt="A picture of a cleaned BTC 5300 keyboard with one keycap removed" />
+      <figcaption>Behold the keyboard in all its clean glory!</figcaption>
+    </figure>
+
+    <h2 id="results-and-typing-demonstration">
+      Results and typing demonstration
+    </h2>
+
+  <p>
+    Whilst I wasn't able to completely soak off all the muck (who knows how long the keyboard has been submerged in all that oil and grime!), I was definitely able to get rid of the smell and get the keyboard looking decent. I certainly wouldn't mind typing on it! Unfortunately I wasn't able to get a fully working keyboard out of it. As it turned out, the oil did a number on the circuitry which resulted in several dead keys which is a total bummer! They keyboard felt great to type on, as you can hopefully tell from the video below!
+  </p>
+<div><div class="post__iframe"><iframe loading="lazy" width="640" height="360" frameborder="0" src="https://mega.nz/embed/KRJmRb4S#ib79_V3ttzCpY8rwDLid_EcW6eFkNzoXOmJ3vGYZ7Ik" allowfullscreen ></iframe></div>
+</div>
+
+  <p>
+    Not all was lost though, In the end I harvested the keycaps to give my CM Storm a nice makeover, which you can see in the picture below. I'm blown away by how good the keys look on the all black chassis!
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/cm-storm-keyswap.jpeg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://words.vanderbasch.com/media/posts/5/responsive/cm-storm-keyswap-xs.jpeg 300w ,https://words.vanderbasch.com/media/posts/5/responsive/cm-storm-keyswap-sm.jpeg 480w ,https://words.vanderbasch.com/media/posts/5/responsive/cm-storm-keyswap-md.jpeg 768w"  height="1728" width="3072" alt="A photo of a CM Storm Quickfire RED TKL keyboard with a vignette applied" />
+      <figcaption>Just look at that beauty 😍</figcaption>
+    </figure>
+
+    <h2 id="gallery">
+      Gallery
+    </h2>
+
+  <p>
+    Here are some more pictures of the entire restoration process. Enjoy ✨
+  </p>
+
+  <div  class="gallery-wrapper gallery-wrapper--center">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-uncleaned-3.jpeg" data-size="4883x2752">
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-uncleaned-3-thumbnail.jpeg" height="433" width="768" alt="" />
+      </a>
+      <figcaption>The uncleaned keyboard (most of the oil already wiped off)</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-uncleaned-closeup-3.jpg" data-size="3072x1728">
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-uncleaned-closeup-3-thumbnail.jpg" height="432" width="768" alt="" />
+      </a>
+      <figcaption>A closeup of the uncleaned keyboard</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-removing-base-3.jpeg" data-size="1728x3066">
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-removing-base-3-thumbnail.jpeg" height="1363" width="768" alt="" />
+      </a>
+      <figcaption>Removing the base of the keyboard</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-bottom-half-reveal-4.jpg" data-size="5376x3024">
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-bottom-half-reveal-4-thumbnail.jpg" height="432" width="768" alt="" />
+      </a>
+      <figcaption>After opening the bottom of the board can be removed</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-board-reveal-3.jpg" data-size="5376x3024">
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-board-reveal-3-thumbnail.jpg" height="432" width="768" alt="" />
+      </a>
+      <figcaption>The board after removing it from the casing</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-board-zoom-3.jpg" data-size="5376x3024">
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-board-zoom-3-thumbnail.jpg" height="432" width="768" alt="" />
+      </a>
+      <figcaption>Closeup of the board showcasing the clever design</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-top-half-reveal-4.jpg" data-size="5376x3024">
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-top-half-reveal-4-thumbnail.jpg" height="432" width="768" alt="" />
+      </a>
+      <figcaption>After removing the board the top half can be disassembled</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-soaking-keycaps-2.jpg" data-size="5376x3024">
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-soaking-keycaps-2-thumbnail.jpg" height="432" width="768" alt="" />
+      </a>
+      <figcaption>Soaking the keycaps</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-bowl-3.jpg" data-size="2684x4772">
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-bowl-3-thumbnail.jpg" height="1365" width="768" alt="" />
+      </a>
+      <figcaption>The cleaned keycaps drying in a bowl</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-drying-kitchen-2.jpg" data-size="5376x3024">
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-drying-kitchen-2-thumbnail.jpg" height="432" width="768" alt="" />
+      </a>
+      <figcaption>Drying the top and bottom half after cleaning them</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-dryed-2.jpg" data-size="3024x5376">
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-dryed-2-thumbnail.jpg" height="1365" width="768" alt="" />
+      </a>
+      <figcaption>The bottom and top half all dried up and ready to be reassembled</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-cleaned-top-half-assembled-2.jpg" data-size="5376x3024">
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-cleaned-top-half-assembled-2-thumbnail.jpg" height="432" width="768" alt="" />
+      </a>
+      <figcaption>The top half reassembled</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-partially-re-assembled-2.jpg" data-size="5376x3024">
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-partially-re-assembled-2-thumbnail.jpg" height="432" width="768" alt="" />
+      </a>
+      <figcaption>The reassembled keyboard sans keycaps</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-cleaned-3.jpeg" data-size="4883x3024">
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-cleaned-3-thumbnail.jpeg" height="476" width="768" alt="" />
+      </a>
+      <figcaption>The BTC 5300 faithfully restored</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-FTC-ID-2.jpg" data-size="5376x3024">
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-FTC-ID-2-thumbnail.jpg" height="432" width="768" alt="" />
+      </a>
+      <figcaption>BTC 5300 FCC ID (E5XKBM10140)</figcaption>
+    </figure>
+    </div>
+  </div>
             ]]>
         </content>
     </entry>
@@ -185,16 +433,16 @@
             <category term="Gaming Mouse"/>
             <category term="Gaming"/>
 
-        <updated>2021-12-17T21:58:35+01:00</updated>
+        <updated>2022-03-08T10:45:53+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://words.vanderbasch.com/media/posts/6/tumblr_m9ycziCCbR1rekzjxo1_1280.jpg" alt="Steelseries Ikari Laser naast de Nova Slider X600" />
+                        <img src="https://words.vanderbasch.com/media/posts/6/tumblr_m9ycziCCbR1rekzjxo1_1280-featured.jpg" alt="Steelseries Ikari Laser naast de Nova Slider X600" />
                      Dit is m geworden: de Steelseries Ikari laser! Al lange tijd ben ik op zoek naar de ideale toetsenbord en muis combinatie om mij mee uit te leven. Na een tijd gespeeld te hebben met een standaard Logitech deskset (waar op zich niets mis&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://words.vanderbasch.com/media/posts/6/tumblr_m9ycziCCbR1rekzjxo1_1280.jpg" alt="Steelseries Ikari Laser naast de Nova Slider X600" />
+                    <img src="https://words.vanderbasch.com/media/posts/6/tumblr_m9ycziCCbR1rekzjxo1_1280-featured.jpg" alt="Steelseries Ikari Laser naast de Nova Slider X600" />
                 
     <h2 id="dit-is-m-geworden-de-steelseries-ikari-laser">
       Dit is m geworden: de Steelseries Ikari laser!
