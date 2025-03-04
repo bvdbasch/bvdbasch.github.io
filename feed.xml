@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>There is something wrong...</title>
     <link href="https://words.vanderbasch.com/feed.xml" rel="self" />
     <link href="https://words.vanderbasch.com" />
@@ -16,22 +16,23 @@
         </author>
         <link href="https://words.vanderbasch.com/drake-stafford-sunday/"/>
         <id>https://words.vanderbasch.com/drake-stafford-sunday/</id>
+        <media:content url="https://words.vanderbasch.com/media/posts/8/vinayak-sharma-VAzTBp3KMaw-unsplash.jpg" medium="image" />
             <category term="music"/>
             <category term="lofi"/>
             <category term="free music archive"/>
             <category term="drake stafford"/>
             <category term="creative commons"/>
 
-        <updated>2021-12-30T15:53:13+01:00</updated>
+        <updated>2017-06-04T10:11:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://words.vanderbasch.com/media/posts/8/vinayak-sharma-VAzTBp3KMaw-unsplash.jpg" alt="A dimmed desk environment with the LoFi girl featured alongside an open code editor" />
-                     I've recently developed a thing for LoFi hip hop. It never fails to get me into a state of flow ideal for when I'm crunching out code. Even though I'm quite content with the offerings of more established channels like Chillhop Music (my personal&hellip;
+                    I've recently developed a thing for LoFi hip hop. It never fails to get me into a state of flow ideal for when I'm crunching out code. Even though I'm quite content with the offerings of more established channels like Chillhop Music (my personal favorite)&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://words.vanderbasch.com/media/posts/8/vinayak-sharma-VAzTBp3KMaw-unsplash.jpg" alt="A dimmed desk environment with the LoFi girl featured alongside an open code editor" />
+                    <p><img src="https://words.vanderbasch.com/media/posts/8/vinayak-sharma-VAzTBp3KMaw-unsplash.jpg" class="type:primaryImage" alt="A dimmed desk environment with the LoFi girl featured alongside an open code editor" /></p>
                 
   <p>
     I've recently developed a thing for LoFi hip hop. It never fails to get me into a state of flow ideal for when I'm crunching out code. Even though I'm quite content with the offerings of more established channels like <a href="https://chillhopmusic.com" target="_blank">Chillhop Music</a> (my personal favorite) I am always on the lookout for new tunes. And hoo boy did I discover a gem on the <a href="https://freemusicarchive.org/music/Drake_Stafford/SUNDAY/" target="_blank">Free Music Archive</a>!&nbsp;
@@ -43,7 +44,7 @@
 
     <figure class="post__image post__image--center">
       <a href="https://soundcloud.com/drake_stafford/sets/sunday" target="_blank">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/8/drake-stafford-sunday-embed-3.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://words.vanderbasch.com/media/posts/8/responsive/drake-stafford-sunday-embed-3-xs.png 300w ,https://words.vanderbasch.com/media/posts/8/responsive/drake-stafford-sunday-embed-3-sm.png 480w ,https://words.vanderbasch.com/media/posts/8/responsive/drake-stafford-sunday-embed-3-md.png 768w"  height="485" width="781" alt="Sunday by Drake Stafford on Soundcloud" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/8/drake-stafford-sunday-embed-3.png" height="485" width="781" alt="Sunday by Drake Stafford on Soundcloud"  sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://words.vanderbasch.com/media/posts/8/responsive/drake-stafford-sunday-embed-3-xs.png 300w ,https://words.vanderbasch.com/media/posts/8/responsive/drake-stafford-sunday-embed-3-sm.png 480w ,https://words.vanderbasch.com/media/posts/8/responsive/drake-stafford-sunday-embed-3-md.png 768w">
       </a>
       <figcaption>To ensure your privacy is respected, this is merely an image of the Soundcloud player. Click on the image to go directly to the Soundcloud player!</figcaption>
     </figure>
@@ -61,6 +62,7 @@
         </author>
         <link href="https://words.vanderbasch.com/generating-font-awesome-png-files/"/>
         <id>https://words.vanderbasch.com/generating-font-awesome-png-files/</id>
+        <media:content url="https://words.vanderbasch.com/media/posts/2/harpal-singh-_zKxPsGOGKg-unsplash.jpg" medium="image" />
             <category term="web icons"/>
             <category term="web apps"/>
             <category term="tips and tricks"/>
@@ -69,7 +71,7 @@
             <category term="font awesome"/>
             <category term="fa2png"/>
 
-        <updated>2020-10-09T18:28:52+02:00</updated>
+        <updated>2017-06-04T09:45:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://words.vanderbasch.com/media/posts/2/harpal-singh-_zKxPsGOGKg-unsplash.jpg" alt="Several icons shown on a screen in a tilted view" />
@@ -78,11 +80,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://words.vanderbasch.com/media/posts/2/harpal-singh-_zKxPsGOGKg-unsplash.jpg" alt="Several icons shown on a screen in a tilted view" />
-                <p>So… I was in a bind yesterday when I wanted to use one of <a href="http://fontawesome.io" title="FontAwesome">Font Awesome’s</a>  icons as a favicon. Because, you know… I’m all about consistency.  Thing is though, it’s not in an image format. </p>
-<p>Luckily I came across a site that let’s you solve that: <a href="http://fa2png.io/" title="FA2PNG">fa2png</a>.  The site is free to use and works on mobile phones as well. Best of all, they allow you to customize the colors using hex codes and the generated images do not require (additional) attribution when you use them. </p>
-<p>I know I’ll be using this site in the future for sure. I hope you’ll find it useful as well. </p>
-
+                    <p><img src="https://words.vanderbasch.com/media/posts/2/harpal-singh-_zKxPsGOGKg-unsplash.jpg" class="type:primaryImage" alt="Several icons shown on a screen in a tilted view" /></p>
+                <p>So… I was in a bind yesterday when I wanted to use one of <a href="http://fontawesome.io" title="FontAwesome">Font Awesome’s</a>  icons as a favicon. Because, you know… I’m all about consistency.  Thing is though, it’s not in an image format. </p><p>Luckily I came across a site that let’s you solve that: <a href="http://fa2png.io/" title="FA2PNG">fa2png</a>.  The site is free to use and works on mobile phones as well. Best of all, they allow you to customize the colors using hex codes and the generated images do not require (additional) attribution when you use them. </p><p>I know I’ll be using this site in the future for sure. I hope you’ll find it useful as well. </p>
             ]]>
         </content>
     </entry>
@@ -93,6 +92,7 @@
         </author>
         <link href="https://words.vanderbasch.com/restoring-btc-5300c-keyboard/"/>
         <id>https://words.vanderbasch.com/restoring-btc-5300c-keyboard/</id>
+        <media:content url="https://words.vanderbasch.com/media/posts/5/WP_20150127_17_11_09_Pro-2.jpg" medium="image" />
             <category term="vintage keyboards"/>
             <category term="video"/>
             <category term="restoration"/>
@@ -105,16 +105,16 @@
             <category term="cleaning"/>
             <category term="build log"/>
 
-        <updated>2022-03-08T18:57:13+01:00</updated>
+        <updated>2015-01-27T17:11:00+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://words.vanderbasch.com/media/posts/5/WP_20150127_17_11_09_Pro-2.jpg" alt="Close up of the circuitry and key activation mechanism of the BTC  5300C" />
-                     I like keyboards. Like...&nbsp;a lot. So whenever I come across a damaged vintage keyboard I check out if it is: A. Salvageable&nbsp;&nbsp; and B. Interesting enough for me to work on So when I happened to come across a heavily abused BTC 5300C I&hellip;
+                    I like keyboards. Like...&nbsp;a lot. So whenever I come across a damaged vintage keyboard I check out if it is: A. Salvageable&nbsp;&nbsp; and B. Interesting enough for me to work on So when I happened to come across a heavily abused BTC 5300C I quickly&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://words.vanderbasch.com/media/posts/5/WP_20150127_17_11_09_Pro-2.jpg" alt="Close up of the circuitry and key activation mechanism of the BTC  5300C" />
+                    <p><img src="https://words.vanderbasch.com/media/posts/5/WP_20150127_17_11_09_Pro-2.jpg" class="type:primaryImage" alt="Close up of the circuitry and key activation mechanism of the BTC  5300C" /></p>
                 
   <p>
     I like keyboards. Like...&nbsp;<b>a lot</b>. So whenever I come across a damaged vintage keyboard I check out if it is:
@@ -145,7 +145,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/BTC-5300-board-reveal.jpg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-board-reveal-xs.jpg 300w ,https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-board-reveal-sm.jpg 480w ,https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-board-reveal-md.jpg 768w"  height="3024" width="5376" alt="A BTC5300 keyboards inner board and sheet lying on a metal cased with the top half slightly visible on the right" />
+      <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/BTC-5300-board-reveal.jpg" height="3024" width="5376" alt="A BTC5300 keyboards inner board and sheet lying on a metal cased with the top half slightly visible on the right"  sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-board-reveal-xs.jpg 300w ,https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-board-reveal-sm.jpg 480w ,https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-board-reveal-md.jpg 768w">
       <figcaption>Rubber sheet my ass! Note the mini table near the enter key.</figcaption>
     </figure>
 
@@ -174,16 +174,16 @@
     The two pictures below sum up the process nicely, basically you unscrew the mounting screws located at the bottom of the keyboard and then detach the metal base, after which you get unrestricted access all the innards of the keyboard.
   </p>
 
-  <div  class="gallery-wrapper gallery-wrapper--center">
+  <div  class="gallery-wrapper">
     <div class="gallery" data-columns="2">
       <figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-top-half-reveal.jpg" data-size="5376x3024">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-top-half-reveal-thumbnail.jpg" height="432" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-top-half-reveal-thumbnail.jpg" height="432" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-bottom-half-reveal.jpg" data-size="5376x3024">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-bottom-half-reveal-thumbnail.jpg" height="432" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-bottom-half-reveal-thumbnail.jpg" height="432" width="768" alt="" >
       </a>
       
     </figure>
@@ -203,7 +203,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/BTC-5300-bowl-square.jpg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-bowl-square-xs.jpg 300w ,https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-bowl-square-sm.jpg 480w ,https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-bowl-square-md.jpg 768w"  height="2679" width="2679" alt="A photo of bowl containing cleaned yellowish keycaps" />
+      <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/BTC-5300-bowl-square.jpg" height="2679" width="2679" alt="A photo of bowl containing cleaned yellowish keycaps"  sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-bowl-square-xs.jpg 300w ,https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-bowl-square-sm.jpg 480w ,https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-bowl-square-md.jpg 768w">
       <figcaption>A bowl of keycaps anyone 🧐</figcaption>
     </figure>
 
@@ -220,7 +220,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/BTC-5300-cleaned.jpeg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-cleaned-xs.jpeg 300w ,https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-cleaned-sm.jpeg 480w ,https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-cleaned-md.jpeg 768w"  height="3024" width="4883" alt="A picture of a cleaned BTC 5300 keyboard with one keycap removed" />
+      <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/BTC-5300-cleaned.jpeg" height="3024" width="4883" alt="A picture of a cleaned BTC 5300 keyboard with one keycap removed"  sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-cleaned-xs.jpeg 300w ,https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-cleaned-sm.jpeg 480w ,https://words.vanderbasch.com/media/posts/5/responsive/BTC-5300-cleaned-md.jpeg 768w">
       <figcaption>Behold the keyboard in all its clean glory!</figcaption>
     </figure>
 
@@ -239,7 +239,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/cm-storm-keyswap.jpeg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://words.vanderbasch.com/media/posts/5/responsive/cm-storm-keyswap-xs.jpeg 300w ,https://words.vanderbasch.com/media/posts/5/responsive/cm-storm-keyswap-sm.jpeg 480w ,https://words.vanderbasch.com/media/posts/5/responsive/cm-storm-keyswap-md.jpeg 768w"  height="1728" width="3072" alt="A photo of a CM Storm Quickfire RED TKL keyboard with a vignette applied" />
+      <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/cm-storm-keyswap.jpeg" height="1728" width="3072" alt="A photo of a CM Storm Quickfire RED TKL keyboard with a vignette applied"  sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://words.vanderbasch.com/media/posts/5/responsive/cm-storm-keyswap-xs.jpeg 300w ,https://words.vanderbasch.com/media/posts/5/responsive/cm-storm-keyswap-sm.jpeg 480w ,https://words.vanderbasch.com/media/posts/5/responsive/cm-storm-keyswap-md.jpeg 768w">
       <figcaption>Just look at that beauty 😍</figcaption>
     </figure>
 
@@ -251,81 +251,81 @@
     Here are some more pictures of the entire restoration process. Enjoy ✨
   </p>
 
-  <div  class="gallery-wrapper gallery-wrapper--center">
+  <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-uncleaned-3.jpeg" data-size="4883x2752">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-uncleaned-3-thumbnail.jpeg" height="433" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-uncleaned-3-thumbnail.jpeg" height="433" width="768" alt="" >
       </a>
       <figcaption>The uncleaned keyboard (most of the oil already wiped off)</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-uncleaned-closeup-3.jpg" data-size="3072x1728">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-uncleaned-closeup-3-thumbnail.jpg" height="432" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-uncleaned-closeup-3-thumbnail.jpg" height="432" width="768" alt="" >
       </a>
       <figcaption>A closeup of the uncleaned keyboard</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-removing-base-3.jpeg" data-size="1728x3066">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-removing-base-3-thumbnail.jpeg" height="1363" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-removing-base-3-thumbnail.jpeg" height="1363" width="768" alt="" >
       </a>
       <figcaption>Removing the base of the keyboard</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-bottom-half-reveal-4.jpg" data-size="5376x3024">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-bottom-half-reveal-4-thumbnail.jpg" height="432" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-bottom-half-reveal-4-thumbnail.jpg" height="432" width="768" alt="" >
       </a>
       <figcaption>After opening the bottom of the board can be removed</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-board-reveal-3.jpg" data-size="5376x3024">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-board-reveal-3-thumbnail.jpg" height="432" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-board-reveal-3-thumbnail.jpg" height="432" width="768" alt="" >
       </a>
       <figcaption>The board after removing it from the casing</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-board-zoom-3.jpg" data-size="5376x3024">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-board-zoom-3-thumbnail.jpg" height="432" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-board-zoom-3-thumbnail.jpg" height="432" width="768" alt="" >
       </a>
       <figcaption>Closeup of the board showcasing the clever design</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-top-half-reveal-4.jpg" data-size="5376x3024">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-top-half-reveal-4-thumbnail.jpg" height="432" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-top-half-reveal-4-thumbnail.jpg" height="432" width="768" alt="" >
       </a>
       <figcaption>After removing the board the top half can be disassembled</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-soaking-keycaps-2.jpg" data-size="5376x3024">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-soaking-keycaps-2-thumbnail.jpg" height="432" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-soaking-keycaps-2-thumbnail.jpg" height="432" width="768" alt="" >
       </a>
       <figcaption>Soaking the keycaps</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-bowl-3.jpg" data-size="2684x4772">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-bowl-3-thumbnail.jpg" height="1365" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-bowl-3-thumbnail.jpg" height="1365" width="768" alt="" >
       </a>
       <figcaption>The cleaned keycaps drying in a bowl</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-drying-kitchen-2.jpg" data-size="5376x3024">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-drying-kitchen-2-thumbnail.jpg" height="432" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-drying-kitchen-2-thumbnail.jpg" height="432" width="768" alt="" >
       </a>
       <figcaption>Drying the top and bottom half after cleaning them</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-dryed-2.jpg" data-size="3024x5376">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-dryed-2-thumbnail.jpg" height="1365" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-dryed-2-thumbnail.jpg" height="1365" width="768" alt="" >
       </a>
       <figcaption>The bottom and top half all dried up and ready to be reassembled</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-cleaned-top-half-assembled-2.jpg" data-size="5376x3024">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-cleaned-top-half-assembled-2-thumbnail.jpg" height="432" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-cleaned-top-half-assembled-2-thumbnail.jpg" height="432" width="768" alt="" >
       </a>
       <figcaption>The top half reassembled</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-partially-re-assembled-2.jpg" data-size="5376x3024">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-partially-re-assembled-2-thumbnail.jpg" height="432" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-partially-re-assembled-2-thumbnail.jpg" height="432" width="768" alt="" >
       </a>
       <figcaption>The reassembled keyboard sans keycaps</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-cleaned-3.jpeg" data-size="4883x3024">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-cleaned-3-thumbnail.jpeg" height="476" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-cleaned-3-thumbnail.jpeg" height="476" width="768" alt="" >
       </a>
       <figcaption>The BTC 5300 faithfully restored</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-FTC-ID-2.jpg" data-size="5376x3024">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-FTC-ID-2-thumbnail.jpg" height="432" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/5/gallery/BTC-5300-FTC-ID-2-thumbnail.jpg" height="432" width="768" alt="" >
       </a>
       <figcaption>BTC 5300 FCC ID (E5XKBM10140)</figcaption>
     </figure>
@@ -341,6 +341,7 @@
         </author>
         <link href="https://words.vanderbasch.com/how-to-solve-qnap-disk-initialization-problems/"/>
         <id>https://words.vanderbasch.com/how-to-solve-qnap-disk-initialization-problems/</id>
+        <media:content url="https://words.vanderbasch.com/media/posts/1/markus-spiske-5yEiCUynJ9w-unsplash.jpg" medium="image" />
             <category term="troubleshooting"/>
             <category term="ssh"/>
             <category term="qnap"/>
@@ -349,7 +350,7 @@
             <category term="fdisk"/>
             <category term="busybox"/>
 
-        <updated>2021-12-17T12:37:45+01:00</updated>
+        <updated>2014-05-18T18:04:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://words.vanderbasch.com/media/posts/1/markus-spiske-5yEiCUynJ9w-unsplash.jpg" alt="A WD Red harddrive cut in half on a pink background" />
@@ -358,23 +359,13 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://words.vanderbasch.com/media/posts/1/markus-spiske-5yEiCUynJ9w-unsplash.jpg" alt="A WD Red harddrive cut in half on a pink background" />
+                    <p><img src="https://words.vanderbasch.com/media/posts/1/markus-spiske-5yEiCUynJ9w-unsplash.jpg" class="type:primaryImage" alt="A WD Red harddrive cut in half on a pink background" /></p>
                 <h2 id="the-backstory">The backstory</h2>
-<p>Linux and I respect eachother as worthy foes… We have that love/hate realationship that just seems to work. Every now and then I <em>need</em> linux. I simply do… And on those moments we both throw down for a spectacular fight and see who comes out on top.</p>
-<p>This weekend was no different. As a thank you gift for some services rendered I received a <a href="http://http://www.qnap.com/nl/?lang=nl&amp;sn=531&amp;c=310&amp;sc=577&amp;t=586&amp;n=3613">QNAP TS-219P+</a> that I had big plans for. I have 2 external drives, one for media and one for incremental backups so sticking them into the NAS would surely ease my daily routines.</p>
-<p>Dismanteling the drives wasn’t all that challenging and before no time the first disk was installed in the NAS. I decided to start with just one disk (the media one), because it didn’t hold any important data anyway and I was unsure if the NAS needed to format the drives in order to use them.</p>
-<p>I ran the first use utility and the set-up was pretty straight forward. Since I don’t really like <a href="http://http://www.raidrecoveryonline.com/jbod_raid/">JBOD</a> I opted to let the NAS skip RAID and just view each tray as a single disk. In retrospect this was a bad move :(</p>
-<h2 id="the-problem">The problem</h2>
-<p>Once I had the NAS set up and was done moving all my data to the NAS I dismanteled the remaining drive and popped it in the NAS. I tried <strong>hot plugging</strong> it to see if the NAS would go for it and surely it did. Well… <em>sort of…</em></p>
-<p>Whatever I tried, the NAS would refuse to initialize the drive! It would just keep telling me:</p>
-<blockquote>
-<p><code>[Singe Disk Volume: Drive 2] Formatting failed.</code> </p>
-<p><code>[Singe Disk Volume: Drive 2] Formatting failed(Cannot unmount disk).</code></p>
-</blockquote>
-<p>None of QNAP’s own documentation seemed to work as well as standard LINUX stuff. I later learned that QNAP operates on a slightly modded version of <a href="http://http://www.busybox.net/">BUSYBOX</a></p>
-<h2 id="the-fix">The fix</h2>
-<p>The fix was relatively simple, but I had to use steps from various other fixes (maily from people having problems with JBOD).</p>
-<ol>
+<p>Linux and I respect eachother as worthy foes… We have that love/hate realationship that just seems to work. Every now and then I <em>need</em> linux. I simply do… And on those moments we both throw down for a spectacular fight and see who comes out on top.</p><p>This weekend was no different. As a thank you gift for some services rendered I received a <a href="http://http://www.qnap.com/nl/?lang=nl&sn=531&c=310&sc=577&t=586&n=3613">QNAP TS-219P+</a> that I had big plans for. I have 2 external drives, one for media and one for incremental backups so sticking them into the NAS would surely ease my daily routines.</p><p>Dismanteling the drives wasn’t all that challenging and before no time the first disk was installed in the NAS. I decided to start with just one disk (the media one), because it didn’t hold any important data anyway and I was unsure if the NAS needed to format the drives in order to use them.</p><p>I ran the first use utility and the set-up was pretty straight forward. Since I don’t really like <a href="http://http://www.raidrecoveryonline.com/jbod_raid/">JBOD</a> I opted to let the NAS skip RAID and just view each tray as a single disk. In retrospect this was a bad move :(</p><h2 id="the-problem">The problem</h2>
+<p>Once I had the NAS set up and was done moving all my data to the NAS I dismanteled the remaining drive and popped it in the NAS. I tried <strong>hot plugging</strong> it to see if the NAS would go for it and surely it did. Well… <em>sort of…</em></p><p>Whatever I tried, the NAS would refuse to initialize the drive! It would just keep telling me:</p><blockquote>
+<p><code>[Singe Disk Volume: Drive 2] Formatting failed.</code> </p><p><code>[Singe Disk Volume: Drive 2] Formatting failed(Cannot unmount disk).</code></p></blockquote>
+<p>None of QNAP’s own documentation seemed to work as well as standard LINUX stuff. I later learned that QNAP operates on a slightly modded version of <a href="http://http://www.busybox.net/">BUSYBOX</a></p><h2 id="the-fix">The fix</h2>
+<p>The fix was relatively simple, but I had to use steps from various other fixes (maily from people having problems with JBOD).</p><ol>
 <li>Connect to the NAS with <a href="http://http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html">SSH</a> (<strong>NOTE: you can only SSH into the NAS with the admin account - admin / password</strong>)</li>
 <li>Stop all the running services with the following command <code>/etc/init.d/services.sh stop</code></li>
 <li>Format the drive with ONE, and <strong>ONLY ONE</strong> partition using <a href="http://http://www.ehow.com/how_1000631_hard-drive-linux.html">fdisk</a>. You should be presented with the <em>error 16</em> when you reach the final step and attempt to write the changes</li>
@@ -383,7 +374,6 @@
 <li><strong>FORMAT</strong> the drive from the webinterface. It will automatically mount everything as it sees fit and you should end  up with a mounted usable second drive.</li>
 </ol>
 <p>I hope this will help some of you that are facing the same annoying issue I was facing. you’ve been a worthy foe linux. I will see you again soon for our next battle.</p>
-
             ]]>
         </content>
     </entry>
@@ -394,12 +384,13 @@
         </author>
         <link href="https://words.vanderbasch.com/online-favicon-extractor/"/>
         <id>https://words.vanderbasch.com/online-favicon-extractor/</id>
+        <media:content url="https://words.vanderbasch.com/media/posts/3/piotr-hamryszczak-P2k3JttAlho-unsplash.jpg" medium="image" />
             <category term="yandex"/>
             <category term="tips and tricks"/>
             <category term="search engines"/>
             <category term="icons"/>
 
-        <updated>2020-10-09T18:36:07+02:00</updated>
+        <updated>2013-01-11T16:29:00+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://words.vanderbasch.com/media/posts/3/piotr-hamryszczak-P2k3JttAlho-unsplash.jpg" alt="A photograph of a brown wooden panel door" />
@@ -408,9 +399,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://words.vanderbasch.com/media/posts/3/piotr-hamryszczak-P2k3JttAlho-unsplash.jpg" alt="A photograph of a brown wooden panel door" />
-                <p>I found a cool “hidden” feature on the <a href="http://favicon.yandex.net/favicon/">Yandex search engine</a>. It is able to extract the favicon from any domain even if the server hosting the domain does not allow the visitor to do so. Simply click on the link and modify the url afterwards. Include the full domain including www after the slash and voila, a favicon ready to be saved. Great for password managers that support custom icons.</p>
-<h3 id="instructions">Instructions</h3>
+                    <p><img src="https://words.vanderbasch.com/media/posts/3/piotr-hamryszczak-P2k3JttAlho-unsplash.jpg" class="type:primaryImage" alt="A photograph of a brown wooden panel door" /></p>
+                <p>I found a cool “hidden” feature on the <a href="http://favicon.yandex.net/favicon/">Yandex search engine</a>. It is able to extract the favicon from any domain even if the server hosting the domain does not allow the visitor to do so. Simply click on the link and modify the url afterwards. Include the full domain including www after the slash and voila, a favicon ready to be saved. Great for password managers that support custom icons.</p><h3 id="instructions">Instructions</h3>
 <ol>
 <li>Link points to <a href="http://favicon.yandex.net/favicon/">http://favicon.yandex.net/favicon/</a></li>
 <li>Want, let’s say the tumblr. favicon? Modify the above link to <a href="http://favicon.yandex.net/favicon/www.tumblr.com">http://favicon.yandex.net/favicon/www.tumblr.com</a></li>
@@ -427,52 +417,53 @@
         </author>
         <link href="https://words.vanderbasch.com/nieuwe-muis/"/>
         <id>https://words.vanderbasch.com/nieuwe-muis/</id>
+        <media:content url="https://words.vanderbasch.com/media/posts/6/tumblr_m9ycziCCbR1rekzjxo1_1280-featured.jpg" medium="image" />
             <category term="Steelseries"/>
             <category term="Nova"/>
             <category term="Hardware"/>
             <category term="Gaming Mouse"/>
             <category term="Gaming"/>
 
-        <updated>2022-03-08T10:45:53+01:00</updated>
+        <updated>2011-07-28T13:11:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://words.vanderbasch.com/media/posts/6/tumblr_m9ycziCCbR1rekzjxo1_1280-featured.jpg" alt="Steelseries Ikari Laser naast de Nova Slider X600" />
-                     Dit is m geworden: de Steelseries Ikari laser! Al lange tijd ben ik op zoek naar de ideale toetsenbord en muis combinatie om mij mee uit te leven. Na een tijd gespeeld te hebben met een standaard Logitech deskset (waar op zich niets mis&hellip;
+                    Dit is m geworden: de Steelseries Ikari laser! Al lange tijd ben ik op zoek naar de ideale toetsenbord en muis combinatie om mij mee uit te leven. Na een tijd gespeeld te hebben met een standaard Logitech deskset (waar op zich niets mis mee&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://words.vanderbasch.com/media/posts/6/tumblr_m9ycziCCbR1rekzjxo1_1280-featured.jpg" alt="Steelseries Ikari Laser naast de Nova Slider X600" />
+                    <p><img src="https://words.vanderbasch.com/media/posts/6/tumblr_m9ycziCCbR1rekzjxo1_1280-featured.jpg" class="type:primaryImage" alt="Steelseries Ikari Laser naast de Nova Slider X600" /></p>
                 
     <h2 id="dit-is-m-geworden-de-steelseries-ikari-laser">
       Dit is m geworden: de Steelseries Ikari laser!
     </h2>
 
-  <div  class="gallery-wrapper gallery-wrapper--center">
+  <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/6/gallery/tumblr_m9ycziCCbR1rekzjxo1_1280.jpg" data-size="1280x960">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/6/gallery/tumblr_m9ycziCCbR1rekzjxo1_1280-thumbnail.jpg" height="576" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/6/gallery/tumblr_m9ycziCCbR1rekzjxo1_1280-thumbnail.jpg" height="576" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/6/gallery/tumblr_m9ycziCCbR1rekzjxo2_1280.jpg" data-size="1280x960">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/6/gallery/tumblr_m9ycziCCbR1rekzjxo2_1280-thumbnail.jpg" height="576" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/6/gallery/tumblr_m9ycziCCbR1rekzjxo2_1280-thumbnail.jpg" height="576" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/6/gallery/tumblr_m9ycziCCbR1rekzjxo3_1280.jpg" data-size="1280x960">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/6/gallery/tumblr_m9ycziCCbR1rekzjxo3_1280-thumbnail.jpg" height="576" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/6/gallery/tumblr_m9ycziCCbR1rekzjxo3_1280-thumbnail.jpg" height="576" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/6/gallery/tumblr_m9ycziCCbR1rekzjxo4_1280.jpg" data-size="1280x960">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/6/gallery/tumblr_m9ycziCCbR1rekzjxo4_1280-thumbnail.jpg" height="576" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/6/gallery/tumblr_m9ycziCCbR1rekzjxo4_1280-thumbnail.jpg" height="576" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://words.vanderbasch.com/media/posts/6/gallery/tumblr_m9ycziCCbR1rekzjxo5_1280.jpg" data-size="1280x960">
-        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/6/gallery/tumblr_m9ycziCCbR1rekzjxo5_1280-thumbnail.jpg" height="576" width="768" alt="" />
+        <img loading="lazy" src="https://words.vanderbasch.com/media/posts/6/gallery/tumblr_m9ycziCCbR1rekzjxo5_1280-thumbnail.jpg" height="576" width="768" alt="" >
       </a>
       
     </figure>
