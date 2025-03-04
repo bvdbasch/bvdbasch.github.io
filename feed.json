@@ -22,9 +22,9 @@
             "tags": [
                    "music",
                    "lofi",
-                   "free music archive",
-                   "drake stafford",
-                   "creative commons"
+                   "free-music-archive",
+                   "drake-stafford",
+                   "creative-commons"
             ],
             "date_published": "2017-06-04T10:11:00+02:00",
             "date_modified": "2021-12-30T15:53:13+01:00"
@@ -45,7 +45,7 @@
                    "tips and tricks",
                    "icons",
                    "iconography",
-                   "font awesome",
+                   "font-awesome",
                    "fa2png"
             ],
             "date_published": "2017-06-04T09:45:00+02:00",
@@ -72,7 +72,7 @@
                    "how to",
                    "diy",
                    "cleaning",
-                   "build log"
+                   "buildlog"
             ],
             "date_published": "2015-01-27T17:11:00+01:00",
             "date_modified": "2022-03-08T18:57:13+01:00"
@@ -129,11 +129,11 @@
                 "name": "Bonno van der Basch"
             },
             "tags": [
+                   "gaming-mouse",
+                   "gaming",
                    "Steelseries",
                    "Nova",
-                   "Hardware",
-                   "Gaming Mouse",
-                   "Gaming"
+                   "Hardware"
             ],
             "date_published": "2011-07-28T13:11:00+02:00",
             "date_modified": "2022-03-08T10:45:53+01:00"

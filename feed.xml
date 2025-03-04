@@ -19,9 +19,9 @@
         <media:content url="https://words.vanderbasch.com/media/posts/8/vinayak-sharma-VAzTBp3KMaw-unsplash.jpg" medium="image" />
             <category term="music"/>
             <category term="lofi"/>
-            <category term="free music archive"/>
-            <category term="drake stafford"/>
-            <category term="creative commons"/>
+            <category term="free-music-archive"/>
+            <category term="drake-stafford"/>
+            <category term="creative-commons"/>
 
         <updated>2017-06-04T10:11:00+02:00</updated>
             <summary>
@@ -68,7 +68,7 @@
             <category term="tips and tricks"/>
             <category term="icons"/>
             <category term="iconography"/>
-            <category term="font awesome"/>
+            <category term="font-awesome"/>
             <category term="fa2png"/>
 
         <updated>2017-06-04T09:45:00+02:00</updated>
@@ -103,7 +103,7 @@
             <category term="how to"/>
             <category term="diy"/>
             <category term="cleaning"/>
-            <category term="build log"/>
+            <category term="buildlog"/>
 
         <updated>2015-01-27T17:11:00+01:00</updated>
             <summary>
@@ -418,11 +418,11 @@
         <link href="https://words.vanderbasch.com/nieuwe-muis/"/>
         <id>https://words.vanderbasch.com/nieuwe-muis/</id>
         <media:content url="https://words.vanderbasch.com/media/posts/6/tumblr_m9ycziCCbR1rekzjxo1_1280-featured.jpg" medium="image" />
+            <category term="gaming-mouse"/>
+            <category term="gaming"/>
             <category term="Steelseries"/>
             <category term="Nova"/>
             <category term="Hardware"/>
-            <category term="Gaming Mouse"/>
-            <category term="Gaming"/>
 
         <updated>2011-07-28T13:11:00+02:00</updated>
             <summary>
